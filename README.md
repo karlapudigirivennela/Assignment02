@@ -3,4 +3,5 @@
 - string_alternative function returns every other char in the full_name string.
 2. Python program to find the word count in a file (input.txt) for each line and then print the output. Finally store the output in output.txt file.
 3. Program, which reads heights (inches.) of customers into a list and convert these heights to centimeters in a separate list using Nested interactive loop and list comprehensions. 
-
+Python Course
+Deep Learning Course
